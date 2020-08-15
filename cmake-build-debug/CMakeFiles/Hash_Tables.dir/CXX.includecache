@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrew/Term 4/Engi 4892 - Data Structures/Projects/Exercises/Hash Tables/hashTable.cpp
+iostream
+-
+list
+-
+string
+-
+
+/Users/andrew/Term 4/Engi 4892 - Data Structures/Projects/Exercises/Hash Tables/main.cpp
+iostream
+-
+hashTable.cpp
+/Users/andrew/Term 4/Engi 4892 - Data Structures/Projects/Exercises/Hash Tables/hashTable.cpp
+
